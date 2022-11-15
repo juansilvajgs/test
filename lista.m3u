@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title="Jornalismo",Record News
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://i.imgur.com/5AK7gLc.png" group-title="Jornalismo",CNN Brasil | YouTube
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/CNNbrasil/live
+
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.imgur.com/5AK7gLc.png" group-title="Esportes",ESPN | YouTube
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UClUCS4U8hFfaTZqfOxJ8Upw/live
