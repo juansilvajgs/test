@@ -8,3 +8,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/CNNbr
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.imgur.com/5AK7gLc.png" group-title="Esportes",ESPN | YouTube
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UClUCS4U8hFfaTZqfOxJ8Upw/live
+
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/SBT_2014.svg/revision/latest/scale-to-width-down/200?cb=20220109225248" group-title="Jornalismo",SBT Rio
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@SBTRJ/live
