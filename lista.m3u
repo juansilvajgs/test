@@ -6,7 +6,7 @@ https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://i.imgur.com/5AK7gLc.png" group-title="Jornalismo",CNN Brasil | YouTube
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/CNNbrasil/live
 
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.imgur.com/5AK7gLc.png" group-title="Esportes",ESPN | YouTube
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://th.bing.com/th/id/OIP.f5WXTruuRHpIJ-ga9XCTHQAAAA?pid=ImgDet&w=280&h=200&rs=1" group-title="Esportes",ESPN | YouTube
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UClUCS4U8hFfaTZqfOxJ8Upw/live
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/SBT_2014.svg/revision/latest/scale-to-width-down/200?cb=20220109225248" group-title="Jornalismo",SBT Rio
